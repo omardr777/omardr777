@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 <h2> HackerRank </h2>
 
 <h2> Github Status </h2>
-[image]https://github-readme-stats.vercel.app/api/top-langs/?username=omardr777&theme=gotham
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omardr777&theme=gotham)]
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yokozuna59&theme=gotham)
