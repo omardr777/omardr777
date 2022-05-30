@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1> CodeWars</h1>
 [![CodeWars Badge](https://www.codewars.com/users/omardr777/badges/large)](https://www.codewars.com/users/omardr777)
+<h1> HackerRank </h1>
+
+<h1> Github Status </h1>
+[image]https://github-readme-stats.vercel.app/api/top-langs/?username=omardr777&theme=gotham
