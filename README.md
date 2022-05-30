@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3> Most Used Languages </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omardr777&theme=gotham)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omardr777&theme=gotham)
 
 <h3>Stats </h3>
 
